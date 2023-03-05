@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Frond-End Eğitiminde oluşturduğ
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-gh repo clone delilcanduven/kodluyoruzilkrepo
+git clone https://github.com/delilcanduven/kodluyoruzilkrepo.git
 
 ## Usage
 
